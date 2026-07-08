@@ -1,3 +1,7 @@
+
+
+
+
 # YouTube Clone
 
 A full-stack **YouTube Clone** built using **Python, Django, HTML, CSS, JavaScript, and ImageKit.io**. The application allows users to upload, watch, and interact with videos through a clean and responsive interface.
@@ -22,7 +26,10 @@ A full-stack **YouTube Clone** built using **Python, Django, HTML, CSS, JavaScri
 - **Database:** SQLite
 - **Cloud Storage & CDN:** ImageKit.io
 
-## Sample Video
+## Sample Video of Finished Product
+
+
+https://github.com/user-attachments/assets/5a5de4b4-5af6-45ec-8321-e81e03145b6f
 
 
 ## Installation
